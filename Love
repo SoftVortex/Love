@@ -24,6 +24,7 @@ local Admins = {
     2896656846, --F4ir#8838
     188439784, --gas#3370
     1204062189, --5 Days
+    2803260987, --rashad#4582
 }
 
 local function commands(msg, plr)
